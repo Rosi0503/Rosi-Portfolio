@@ -1,2 +1,2 @@
-# html-portfolio
+# Rosi Portfolio
 About me
